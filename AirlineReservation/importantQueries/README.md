@@ -6,6 +6,10 @@
 
 <h3>After</h3>
 
+<h5>Flights Table</h5>
+
 ![After](FlightsTableAfterBooking.JPG)
+
+<h5>Bookings Table</h5>
 
 ![After](BookingsTableAfterBooking.JPG)
