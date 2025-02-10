@@ -23,3 +23,11 @@
 ![After](PaymentsTable.JPG)
 
 <h1>Tables after cancelling the flight</h1>
+
+<h5>Flights Table</h5>
+
+![After](FlightsTableAfterCancel.JPG)
+
+<h5>Bookings Table</h5>
+
+![After](BookingsTableAfterCancel.JPG)
