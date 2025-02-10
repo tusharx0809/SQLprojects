@@ -17,3 +17,9 @@
 <h5>Bookings Table</h5>
 
 ![After](BookingsTableAfterBooking.JPG)
+
+<h5>Payments Table</h5>
+
+![After](PaymentsTable.JPG)
+
+<h1>Tables after cancelling the flight</h1>
