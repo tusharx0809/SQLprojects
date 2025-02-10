@@ -2,7 +2,11 @@
 
 <h3>Before</h3>
 
+<h5>Flights Table</h5>
+
 ![Before](FlightsTable.JPG)
+
+<h5>Bookings Table is empty</h5>
 
 <h3>After</h3>
 
