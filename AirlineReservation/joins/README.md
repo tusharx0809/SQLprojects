@@ -9,3 +9,7 @@
 <h1>Payment Details</h1>
 
 ![PaymentDetails](PaymentDetails.JPG)
+
+<h1>Passenger with Flight Information</h1>
+
+![PassengerInfo](PassengersWithFlightBookings.JPG)
