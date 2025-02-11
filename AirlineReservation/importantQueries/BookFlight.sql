@@ -1,8 +1,8 @@
 BEGIN TRANSACTION;
 
-DECLARE @FlightID INT = 5;
-DECLARE @PassengerID INT = 6;
-DECLARE @SeatNumber VARCHAR(10) = '19A';
+DECLARE @FlightID INT = 2;
+DECLARE @PassengerID INT = 2;
+DECLARE @SeatNumber VARCHAR(10) = '25B';
 DECLARE @BookingID INT;
 DECLARE @FlightPrice DECIMAL(10,2); 
 
