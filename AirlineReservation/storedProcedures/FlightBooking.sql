@@ -9,7 +9,7 @@ AS
 BEGIN
     DECLARE @BookingID INT;
     DECLARE @FlightPrice DECIMAL(10, 2);
-    DECLARE @AvailableSeats INT,
+    DECLARE @AvailableSeats INT;
 
     BEGIN TRANSACTION;
 
@@ -49,3 +49,5 @@ BEGIN
     PRINT 'Booking and payment successful!';
 
 END;
+
+--EXEC book_flight_with_payment @PassengerID = 2, @FlightID = 2, @SeatNumber = '25B';
